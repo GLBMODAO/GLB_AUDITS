@@ -1,10 +1,10 @@
-# 🛡️ GLB_AUDITS: AI-АУДИТ БЕЗОПАСНОСТИ
+# 🛡️ GLB_AUDITS: AI-POWERED SECURITY PLATFORM
 
 <div align="center">
 
-![Лицензия](https://img.shields.io/badge/Лицензия-MIT-yellow?style=for-the-badge)
-![AI Powered](https://img.shields.io/badge/Технология-AI--Powered-blueviolet?style=for-the-badge)
-![Аудиты](https://img.shields.io/badge/Аудиты-Автоматизировано-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+![AI Powered](https://img.shields.io/badge/Tech-AI--Powered-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=activity&logoColor=white)
 
 <p align="center">
   <a href="README.md">🇺🇸 <b>English Version</b></a> |
@@ -13,9 +13,24 @@
 
 <h3>Автоматизированные аудиты смарт-контрактов на базе мульти-агентной AI-системы.</h3>
 <p>
-Бесплатно, открыто и создано для сообщества.<br>
 <i>QWEN копает код. DeepSeek структурирует данные. Perplexity пишет отчеты.</i>
 </p>
+
+</div>
+
+---
+
+## 🚀 ГЛАВНАЯ ПАНЕЛЬ УПРАВЛЕНИЯ
+
+<div align="center">
+
+| 🏛️ **ЯДРО СТАНДАРТА** | 🛠 **ИНСТРУМЕНТАРИЙ** |
+| :---: | :---: |
+| [![GLB STANDARD](https://img.shields.io/badge/🏛️_GLB-STANDARD-000000?style=for-the-badge&logo=github&logoColor=white)](./GLB_STANDARD/)<br><i>Методология и Документация</i> | [![TEMPLATES](https://img.shields.io/badge/🛠_СКАЧАТЬ-ШАБЛОНЫ-2ea44f?style=for-the-badge&logo=markdown&logoColor=white)](./GLB_STANDARD/templates/)<br><i>Готовые Markdown файлы</i> |
+
+| 📘 **БАЗА ЗНАНИЙ** | 📊 **БИБЛИОТЕКА АУДИТОВ** |
+| :---: | :---: |
+| [![METHODOLOGY](https://img.shields.io/badge/📖_ЧИТАТЬ-МЕТОДОЛОГИЮ-0052cc?style=for-the-badge&logo=gitbook&logoColor=white)](./GLB_STANDARD/methodology/methodology.md)<br><i>Детективный подход к аудиту</i> | [![AUDITS RU](https://img.shields.io/badge/🇷🇺_AUDITS-RU-6f42c1?style=for-the-badge&logo=database&logoColor=white)](./AUDITS_RU/) [![AUDITS EN](https://img.shields.io/badge/🇺🇸_AUDITS-EN-d70a53?style=for-the-badge&logo=database&logoColor=white)](./AUDITS_EN/)<br><i>Открытая база отчетов</i> |
 
 </div>
 
@@ -28,41 +43,22 @@
 | 🤖 **QWEN** | 🧠 **DEEPSEEK** | 🔎 **PERPLEXITY** |
 | :--- | :--- | :--- |
 | **Экскаватор** | **Архитектор** | **Репортер** |
-| Глубокий анализ кода, поиск уязвимостей, проверка логики и математики контракта. | Структурирование сырых данных, организация логики и контроль соответствия методологии. | Генерация финальных читаемых отчетов, визуализация данных и сводная аналитика. |
+| Глубокий анализ кода, поиск уязвимостей. | Структурирование сырых данных, логика. | Генерация читаемых отчетов. |
 
 ---
 
 ## 📊 GLB STANDARD: СИСТЕМА 4 УРОВНЕЙ
 
 Каждый аудит выполняется строго по открытому стандарту **GLB_STANDARD**.
-*> [Подробное описание методологии и стандартов](./GLB_STANDARD/GLB_STANDARD_RU.md/)*
 
-| Уровень | Тип | Целевая аудитория | Формат |
-| :---: | :--- | :--- | :--- |
-| 🟢 | **EASY MODE** | Инвесторы и пользователи | Главные выводы и оценка риска (1-10) |
-| 🔵 | **PRO MODE** | Разработчики | Построчный анализ и методы исправления |
-| 🟣 | **RESEARCH** | Стратеги | База данных и исторический анализ |
-| 🟡 | **SUMMARY** | Руководители (C-Level) | Дашборды, графики и KPI |
+<div align="center">
 
----
+[![Easy Mode](https://img.shields.io/badge/🟢_LEVEL_1-EASY_MODE-2ea44f?style=for-the-badge)](./GLB_STANDARD/templates/GLB_AUDIT_EASYMOD.md)
+[![Pro Mode](https://img.shields.io/badge/🔵_LEVEL_2-PRO_MODE-007ec6?style=for-the-badge)](./GLB_STANDARD/templates/GLB_AUDIT_PROMOD.md)
+[![Research](https://img.shields.io/badge/🟣_LEVEL_3-RESEARCH-8a2be2?style=for-the-badge)](./GLB_STANDARD/templates/GLB_RESEARCH.md)
+[![Summary](https://img.shields.io/badge/🟡_LEVEL_4-SUMMARY-f9a825?style=for-the-badge)](./GLB_STANDARD/templates/GLB_SUMMARY_MOD.md)
 
-## 📁 СТРУКТУРА РЕПОЗИТОРИЯ
-
-Быстрая навигация по разделам проекта:
-
-### 🌍 **ОТЧЕТЫ И АУДИТЫ**
-> *Готовые разборы различных проектов.*
-
-*   🇷🇺 **[`/AUDITS_RU/`](./AUDITS_RU/)** — Библиотека аудитов на русском языке.
-*   🇺🇸 **[`/AUDITS_EN/`](./AUDITS_EN/)** — Библиотека аудитов на английском языке.
-
-### ⚖️ **МЕТОДОЛОГИЯ И СТАНДАРТЫ**
-> *Фреймворк и шаблоны, по которым создаются отчеты.*
-
-*   🛠 **[`/GLB_STANDARD_RU.md/`](./GLB_STANDARD/GLB_STANDARD_RU.md/)** — Корневая папка стандарта.
-    *   📄 **[Описание Методологии](./GLB_STANDARD/README_RU_GLBS.md)** — *Начните изучение отсюда.*
-    *   📂 **[`/templates/`](./GLB_STANDARD/templates/)** — Markdown-шаблоны (Easy/Pro/Research).
-    *   📂 **[`/methodology/`](./GLB_STANDARD/methodology/)** — Детальное описание каждого уровня.
+</div>
 
 ---
 
@@ -71,7 +67,8 @@
 ### 🤝 Вклад в проект
 *Проект распространяется по лицензии MIT.*
 
-[Сообщить об ошибке](https://github.com/your-repo/issues) • [Запросить аудит](https://github.com/your-repo/issues)
+[![Report Issue](https://img.shields.io/badge/🐛_СООБЩИТЬ-ОБ_ОШИБКЕ-red?style=for-the-badge&logo=github)](https://github.com/your-repo/issues)
+[![Request Audit](https://img.shields.io/badge/🛡️_ЗАПРОСИТЬ-АУДИТ-orange?style=for-the-badge&logo=github)](https://github.com/your-repo/issues)
 
 </div>
 
