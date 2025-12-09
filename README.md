@@ -35,7 +35,7 @@ We utilize a specialized chain of AI models to ensure depth and accuracy:
 ## 📊 GLB STANDARD: THE 4-LEVEL SYSTEM
 
 Every audit follows our open-source **GLB_STANDARD** methodology.
-*> [Learn more about the Methodology here (RU)](./GLB_STANDARD/README_RU_GLBS.md)*
+*> [Learn more about the Methodology here (RU)](./GLB_STANDARD/GLB_STANDARD.md)*
 
 | Level | Type | Target Audience | Format |
 | :---: | :--- | :--- | :--- |
@@ -59,9 +59,9 @@ Navigate directly to the section you need:
 ### ⚖️ **METHODOLOGY & STANDARDS**
 > *The core framework and templates used to generate reports.*
 
-*   🛠 **[`/GLB_STANDARD.md/`](./GLB_STANDARD.md/)** — Main folder.
-    *   📄 **[Methodology Guide (RU)](./GLB_STANDARD/README_RU_GLBS.md)** — *Start here to understand how it works.*
-    *   📂 **[`/templates/`](./GLB_STANDARD/templates/)** — MD templates for Audits (Easy/Pro).
+*   🛠 **[`/GLB_STANDARD.md/`](./GLB_STANDARD/GLB_STANDARD.md/)** — Main folder.
+    *   📄 **[Methodology Guide (EN)](./methodology/methodology.md)** — *Start here to understand how it works.*
+    *   📂 **[`/templates/`](./templates/)** — MD templates for Audits (Easy/Pro/Summary).
 
 ---
 
