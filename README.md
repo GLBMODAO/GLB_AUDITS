@@ -59,7 +59,7 @@ Navigate directly to the section you need:
 ### ⚖️ **METHODOLOGY & STANDARDS**
 > *The core framework and templates used to generate reports.*
 
-*   🛠 **[`/GLB_STANDARD/`](./GLB_STANDARD/)** — Main folder.
+*   🛠 **[`/GLB_STANDARD.md/`](./GLB_STANDARD.md/)** — Main folder.
     *   📄 **[Methodology Guide (RU)](./GLB_STANDARD/README_RU_GLBS.md)** — *Start here to understand how it works.*
     *   📂 **[`/templates/`](./GLB_STANDARD/templates/)** — MD templates for Audits (Easy/Pro).
 
