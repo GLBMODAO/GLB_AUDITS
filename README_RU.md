@@ -26,11 +26,11 @@
 
 | 🏛️ **ЯДРО СТАНДАРТА** | 🛠 **ИНСТРУМЕНТАРИЙ** |
 | :---: | :---: |
-| [![GLB STANDARD](https://img.shields.io/badge/🏛️_GLB-STANDARD-000000?style=for-the-badge&logo=github&logoColor=white)](./GLB_STANDARD/)<br><i>Методология и Документация</i> | [![TEMPLATES](https://img.shields.io/badge/🛠_СКАЧАТЬ-ШАБЛОНЫ-2ea44f?style=for-the-badge&logo=markdown&logoColor=white)](./GLB_STANDARD/templates/)<br><i>Готовые Markdown файлы</i> |
+| [![GLB STANDARD](https://img.shields.io/badge/🏛️_GLB-STANDARD-000000?style=for-the-badge&logo=github&logoColor=white)](./GLB_STANDARD/GLB_STANDARD.md)<br><i>Методология и Документация</i> | [![TEMPLATES](https://img.shields.io/badge/🛠_СКАЧАТЬ-ШАБЛОНЫ-2ea44f?style=for-the-badge&logo=markdown&logoColor=white)](./templates/)<br><i>Готовые Markdown файлы</i> |
 
 | 📘 **БАЗА ЗНАНИЙ** | 📊 **БИБЛИОТЕКА АУДИТОВ** |
 | :---: | :---: |
-| [![METHODOLOGY](https://img.shields.io/badge/📖_ЧИТАТЬ-МЕТОДОЛОГИЮ-0052cc?style=for-the-badge&logo=gitbook&logoColor=white)](./GLB_STANDARD/methodology/methodology.md)<br><i>Детективный подход к аудиту</i> | [![AUDITS RU](https://img.shields.io/badge/🇷🇺_AUDITS-RU-6f42c1?style=for-the-badge&logo=database&logoColor=white)](./AUDITS_RU/) [![AUDITS EN](https://img.shields.io/badge/🇺🇸_AUDITS-EN-d70a53?style=for-the-badge&logo=database&logoColor=white)](./AUDITS_EN/)<br><i>Открытая база отчетов</i> |
+| [![METHODOLOGY](https://img.shields.io/badge/📖_ЧИТАТЬ-МЕТОДОЛОГИЮ-0052cc?style=for-the-badge&logo=gitbook&logoColor=white)](./GLB_STANDARD/methodology/methodology_ru.md)<br><i>Детективный подход к аудиту</i> | [![AUDITS RU](https://img.shields.io/badge/🇷🇺_AUDITS-RU-6f42c1?style=for-the-badge&logo=database&logoColor=white)](./AUDITS_RU/) [![AUDITS EN](https://img.shields.io/badge/🇺🇸_AUDITS-EN-d70a53?style=for-the-badge&logo=database&logoColor=white)](./AUDITS_EN/)<br><i>Открытая база отчетов</i> |
 
 </div>
 
