@@ -26,11 +26,11 @@
 
 | 🏛️ **CORE STANDARD** | 🛠 **TOOLKIT** |
 | :---: | :---: |
-| [![GLB STANDARD](https://img.shields.io/badge/🏛️_GLB-STANDARD-000000?style=for-the-badge&logo=github&logoColor=white)](./GLB_STANDARD/)<br><i>Methodology & Full Documentation</i> | [![TEMPLATES](https://img.shields.io/badge/🛠_GET-TEMPLATES-2ea44f?style=for-the-badge&logo=markdown&logoColor=white)](./GLB_STANDARD/templates/)<br><i>Ready-to-use MD Files</i> |
+| [![GLB STANDARD](https://img.shields.io/badge/🏛️_GLB-STANDARD-000000?style=for-the-badge&logo=github&logoColor=white)](./GLB_STANDARD/GLB_STANDARD.md)<br><i>Methodology & Full Documentation</i> | [![TEMPLATES](https://img.shields.io/badge/🛠_GET-TEMPLATES-2ea44f?style=for-the-badge&logo=markdown&logoColor=white)](./templates/)<br><i>Ready-to-use MD Files</i> |
 
 | 📘 **KNOWLEDGE BASE** | 📊 **AUDIT LIBRARIES** |
 | :---: | :---: |
-| [![METHODOLOGY](https://img.shields.io/badge/📖_READ-METHODOLOGY-0052cc?style=for-the-badge&logo=gitbook&logoColor=white)](./GLB_STANDARD/methodology/methodology.md)<br><i>The "Detective" Framework</i> | [![AUDITS RU](https://img.shields.io/badge/🇷🇺_AUDITS-RU-6f42c1?style=for-the-badge&logo=database&logoColor=white)](./AUDITS_RU/) [![AUDITS EN](https://img.shields.io/badge/🇺🇸_AUDITS-EN-d70a53?style=for-the-badge&logo=database&logoColor=white)](./AUDITS_EN/)<br><i>Open Database of Reports</i> |
+| [![METHODOLOGY](https://img.shields.io/badge/📖_READ-METHODOLOGY-0052cc?style=for-the-badge&logo=gitbook&logoColor=white)](./methodology/methodology.md)<br><i>The "Detective" Framework</i> | [![AUDITS RU](https://img.shields.io/badge/🇷🇺_AUDITS-RU-6f42c1?style=for-the-badge&logo=database&logoColor=white)](./AUDITS_RU/) [![AUDITS EN](https://img.shields.io/badge/🇺🇸_AUDITS-EN-d70a53?style=for-the-badge&logo=database&logoColor=white)](./AUDITS_EN/)<br><i>Open Database of Reports</i> |
 
 </div>
 
