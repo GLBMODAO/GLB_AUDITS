@@ -30,7 +30,7 @@
 
 | 📘 **БАЗА ЗНАНИЙ** | 📊 **БИБЛИОТЕКА АУДИТОВ** |
 | :---: | :---: |
-| [![METHODOLOGY](https://img.shields.io/badge/📖_ЧИТАТЬ-МЕТОДОЛОГИЮ-0052cc?style=for-the-badge&logo=gitbook&logoColor=white)](./GLB_STANDARD/methodology/methodology_ru.md)<br><i>Детективный подход к аудиту</i> | [![AUDITS RU](https://img.shields.io/badge/🇷🇺_AUDITS-RU-6f42c1?style=for-the-badge&logo=database&logoColor=white)](./AUDITS_RU/) [![AUDITS EN](https://img.shields.io/badge/🇺🇸_AUDITS-EN-d70a53?style=for-the-badge&logo=database&logoColor=white)](./AUDITS_EN/)<br><i>Открытая база отчетов</i> |
+| [![METHODOLOGY](https://img.shields.io/badge/📖_ЧИТАТЬ-МЕТОДОЛОГИЮ-0052cc?style=for-the-badge&logo=gitbook&logoColor=white)](./methodology/methodology_ru.md)<br><i>Детективный подход к аудиту</i> | [![AUDITS RU](https://img.shields.io/badge/🇷🇺_AUDITS-RU-6f42c1?style=for-the-badge&logo=database&logoColor=white)](./AUDITS_RU/) [![AUDITS EN](https://img.shields.io/badge/🇺🇸_AUDITS-EN-d70a53?style=for-the-badge&logo=database&logoColor=white)](./AUDITS_EN/)<br><i>Открытая база отчетов</i> |
 
 </div>
 
